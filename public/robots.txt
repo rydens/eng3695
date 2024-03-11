@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tags/*
+
+Sitemap: http://student2.cs.appstate.edu/densmorert/crafting/sitemap.xml
