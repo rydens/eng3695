@@ -2,7 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/introduction/</loc>
+    <lastmod>2024-03-10T23:06:28-04:00</lastmod>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/getting-started/installation/</loc>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/instructions/</loc>
+    <lastmod>2024-03-10T23:48:27-04:00</lastmod>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/getting-started/launching/</loc>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/materials/</loc>
+    <lastmod>2024-03-10T23:46:57-04:00</lastmod>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/faqs/</loc>
+    <lastmod>2024-03-10T23:50:32-04:00</lastmod>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/troubleshooting/</loc>
+    <lastmod>2024-03-10T23:50:59-04:00</lastmod>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/troubleshooting/troubleshooting/</loc>
+    <lastmod>2024-03-10T23:50:59-04:00</lastmod>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/faqs/faqs/</loc>
+    <lastmod>2024-03-10T23:50:32-04:00</lastmod>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/instructions/instructions/</loc>
+    <lastmod>2024-03-10T23:48:27-04:00</lastmod>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/materials/materials/</loc>
+    <lastmod>2024-03-10T23:46:57-04:00</lastmod>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/introduction/introduction/</loc>
+    <lastmod>2024-03-10T23:06:28-04:00</lastmod>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/getting-started/</loc>
+    <lastmod>2024-03-10T22:54:33-04:00</lastmod>
+  </url><url>
+    <loc>http://student2.cs.appstate.edu/densmorert/crafting/getting-started/getting-started-raw/</loc>
+    <lastmod>2024-03-10T22:54:33-04:00</lastmod>
+  </url><url>
     <loc>http://student2.cs.appstate.edu/densmorert/crafting/</loc>
+    <lastmod>2024-03-10T22:41:14-04:00</lastmod>
   </url><url>
     <loc>http://student2.cs.appstate.edu/densmorert/crafting/tags/</loc>
   </url>

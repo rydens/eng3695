@@ -7,5 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://student2.cs.appstate.edu/densmorert/crafting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation</title>
+      <link>http://student2.cs.appstate.edu/densmorert/crafting/getting-started/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://student2.cs.appstate.edu/densmorert/crafting/getting-started/installation/</guid>
+      <description>&lt;p&gt;This page tells you how to get started with &lt;em&gt;Minecraft&lt;/em&gt;, including purchasing, downloading, and installation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Launching Minecraft</title>
+      <link>http://student2.cs.appstate.edu/densmorert/crafting/getting-started/launching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://student2.cs.appstate.edu/densmorert/crafting/getting-started/launching/</guid>
+      <description>&lt;p&gt;This page tells you how to launch and start playing &lt;em&gt;Minecraft&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Troubleshooting</title>
+      <link>http://student2.cs.appstate.edu/densmorert/crafting/troubleshooting/troubleshooting/</link>
+      <pubDate>Sun, 10 Mar 2024 23:50:59 -0400</pubDate>
+      <guid>http://student2.cs.appstate.edu/densmorert/crafting/troubleshooting/troubleshooting/</guid>
+      <description>Lack of Resources:&#xA;Troubleshooting Steps: Explore the surrounding area to gather more resources. Move to areas with trees for wood, caves for stone and minerals, and open areas for sticks and other materials. If necessary, craft basic tools such as a wooden pickaxe to help you gather resources more efficiently. Consider exploring different biomes or elevations to find specific resources like diamonds or iron ore.&#xA;Crafting Table Missing:&#xA;Troubleshooting Steps: If you accidentally break your crafting table, ensure you have enough wood to craft a new one.</description>
+    </item>
+    <item>
+      <title>FAQs</title>
+      <link>http://student2.cs.appstate.edu/densmorert/crafting/faqs/faqs/</link>
+      <pubDate>Sun, 10 Mar 2024 23:50:32 -0400</pubDate>
+      <guid>http://student2.cs.appstate.edu/densmorert/crafting/faqs/faqs/</guid>
+      <description>What can I mine with different types of pickaxes? How do I find diamonds? What&amp;rsquo;s the best way to mine for diamonds? What tools do I need to mine diamonds? What should I do if I encounter hostile mobs while mining? What are these meat shanks to the right of my health bar? What can I mine with different types of pickaxes? Wooden pickaxes can mine basic materials like dirt and stone.</description>
+    </item>
+    <item>
+      <title>Instructions</title>
+      <link>http://student2.cs.appstate.edu/densmorert/crafting/instructions/instructions/</link>
+      <pubDate>Sun, 10 Mar 2024 23:48:27 -0400</pubDate>
+      <guid>http://student2.cs.appstate.edu/densmorert/crafting/instructions/instructions/</guid>
+      <description>Spawn in the World Once the game loads, you&amp;rsquo;ll spawn in a random location within your world. Take a moment to familiarize yourself with your surroundings.&#xA;Gather Basic Materials Your first task is to gather basic materials to craft tools and other items. Begin by punching trees to collect wood. Hold down the left mouse button while facing a tree trunk to break it into Log blocks. [punching tree screenshot]</description>
+    </item>
+    <item>
+      <title>Description of Materials</title>
+      <link>http://student2.cs.appstate.edu/densmorert/crafting/materials/materials/</link>
+      <pubDate>Sun, 10 Mar 2024 23:46:57 -0400</pubDate>
+      <guid>http://student2.cs.appstate.edu/densmorert/crafting/materials/materials/</guid>
+      <description>&lt;p&gt;This page tells you what &lt;em&gt;Minecraft&lt;/em&gt; materials you need to craft your Diamond Pickaxe.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>http://student2.cs.appstate.edu/densmorert/crafting/introduction/introduction/</link>
+      <pubDate>Sun, 10 Mar 2024 23:06:28 -0400</pubDate>
+      <guid>http://student2.cs.appstate.edu/densmorert/crafting/introduction/introduction/</guid>
+      <description>Minecraft is the most popular sandbox video game of all time. It offers players virtually infinite worlds to play in, however they desire. You can build with infinite resources in Creative mode, or gather materials and fight mobs in Survival mode.&#xA;The basic controls are as follows:&#xA;Look around using your mouse Move around using W, A, S, D Jump with Space Bar Mine blocks with Left Click Place and interact with blocks using Right Click Open your inventory with E Close any GUIs (inventory, chest, crafting table, etc) or pause the game with Esc Choose which item you have currently equipped in your hotbar by using the number keys 1-9 or scrolling on your mouse In Survival mode, the player has to face the threat of monsters and hunger, while gathering food to survive and materials to build shelter and craft weapons and tools with.</description>
+    </item>
+    <item>
+      <title>Getting Started</title>
+      <link>http://student2.cs.appstate.edu/densmorert/crafting/getting-started/getting-started-raw/</link>
+      <pubDate>Sun, 10 Mar 2024 22:54:33 -0400</pubDate>
+      <guid>http://student2.cs.appstate.edu/densmorert/crafting/getting-started/getting-started-raw/</guid>
+      <description>&lt;p&gt;This page tells you how to get started with Minecraft, including installation and basic configuration.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
