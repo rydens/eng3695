@@ -9,6 +9,7 @@ draft = false
 1. Spawn in the World
 Once the game loads, you'll spawn in a random location within your world. Take a moment to familiarize yourself with your surroundings.
 
+![Image Alt Text](https://static.wikia.nocookie.net/stewiepig/images/6/61/Mine5.png/revision/latest?cb=20150726203756)
 2. Gather Basic Materials
 Your first task is to gather basic materials to craft tools and other items. Begin by punching trees to collect wood. Hold down the left mouse button while facing a tree trunk to break it into Log blocks. [punching tree screenshot]
 
@@ -25,6 +26,7 @@ Once you've crafted a crafting table, place it on the ground by selecting it in 
 5. Craft Wooden Tools
 With your crafting table placed, open it by right-clicking on it. Use the wooden planks you've crafted to create wooden tools, including a wooden pickaxe, axe, and shovel. These tools will allow you to gather more resources efficiently. To craft a pickaxe, place three wooden planks in a horizontal line across the top row and place two sticks in the bottom two spaces of the middle column. [wooden pickaxe recipe screenshot]
 
+![Image Alt Text](https://www.wikihow.com/images/thumb/5/52/Get-Stone-in-Minecraft-Step-1-Version-2.jpg/v4-460px-Get-Stone-in-Minecraft-Step-1-Version-2.jpg.webp)
 6. Mine Stone
 To progress to stronger tools, you'll need to start mining! Look for exposed stone on the surface or dig into the sides of cliffs to find it. Use your wooden pickaxe to mine stone blocks. You'll need at least three blocks of cobblestone.
 
