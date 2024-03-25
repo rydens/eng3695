@@ -10,6 +10,7 @@ draft = false
 Once the game loads, you'll spawn in a random location within your world. Take a moment to familiarize yourself with your surroundings.
 
 ![Image Alt Text](https://static.wikia.nocookie.net/stewiepig/images/6/61/Mine5.png/revision/latest?cb=20150726203756)
+
 2. Gather Basic Materials
 Your first task is to gather basic materials to craft tools and other items. Begin by punching trees to collect wood. Hold down the left mouse button while facing a tree trunk to break it into Log blocks. [punching tree screenshot]
 
@@ -27,6 +28,7 @@ Once you've crafted a crafting table, place it on the ground by selecting it in 
 With your crafting table placed, open it by right-clicking on it. Use the wooden planks you've crafted to create wooden tools, including a wooden pickaxe, axe, and shovel. These tools will allow you to gather more resources efficiently. To craft a pickaxe, place three wooden planks in a horizontal line across the top row and place two sticks in the bottom two spaces of the middle column. [wooden pickaxe recipe screenshot]
 
 ![Image Alt Text](https://www.wikihow.com/images/thumb/5/52/Get-Stone-in-Minecraft-Step-1-Version-2.jpg/v4-460px-Get-Stone-in-Minecraft-Step-1-Version-2.jpg.webp)
+
 6. Mine Stone
 To progress to stronger tools, you'll need to start mining! Look for exposed stone on the surface or dig into the sides of cliffs to find it. Use your wooden pickaxe to mine stone blocks. You'll need at least three blocks of cobblestone.
 
@@ -41,10 +43,12 @@ With your cobblestone blocks collected, return to your crafting table and craft 
 Exploring your world, you'll come across natural formations such as caves or diggable areas leading underground. These are great places to find valuable resources like iron and diamonds.
 
 ![Image Alt Text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/62985276-7cef-4677-99d3-097624b302c1/d5ptv45-ceb05cf7-4290-49f7-873f-baed3458d596.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYyOTg1Mjc2LTdjZWYtNDY3Ny05OWQzLTA5NzYyNGIzMDJjMVwvZDVwdHY0NS1jZWIwNWNmNy00MjkwLTQ5ZjctODczZi1iYWVkMzQ1OGQ1OTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZbfHe12mMffk5gFQw7sVai6kc9_huDU2bQSJUaENAfg)
+
 9. Mine for Iron Ore
 Within caves or underground mines, look for grayish blocks with orange spots on them. These are iron ore blocks. Use your stone pickaxe to mine them. Collect enough iron ore to smelt into iron ingots. You will need at least 3 for an iron pickaxe. If you happen to find some coal ore on your journey, grab some of that too! It’ll make your smelting process later more efficient.
 
 ![Image Alt Text](https://staticg.sportskeeda.com/editor/2022/02/93dc7-16449241526551-1920.jpg)
+
 10. Craft and Place a Furnace
 To smelt iron ore into iron ingots, you'll need to craft a furnace. Open your crafting table and place cobblestone blocks in a square pattern, leaving the center square empty. This will create a furnace. Take the furnace from the crafting table and place it on the ground by right-clicking. [furnace recipe screenshot]
 
