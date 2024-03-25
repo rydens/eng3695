@@ -13,25 +13,41 @@ This page tells you how to launch and start playing *Minecraft*.
 # Launcher Sign-in
 1. Select **Add account** and sign in with the Microsoft account used to purchase the game.
 
-# The  *Minecraft*  Launcher
+# The&nbsp; *Minecraft* &nbsp;Launcher
+![Minecraft Launcher](MinecraftLauncher.png)
 Welcome to the *Minecraft* Launcher! Here, you can modify game options and customize how you want your game to run.
 
-2. For now, we will simply launch the latest version by selecting **Play**.
+1. Select **Play** to launch the latest version of *Minecraft*.
 
-3. The game will now download the latest version and launch it! Give it a few minutes or so the first time, and you will soon see the game window appear.
+{{< hint type=tip icon=gdoc_check title=Hint >}}
+The game will now download the latest version and launch it! Give it a few minutes or so the first time, and you will soon see the game window appear.
+
+![Minecraft Launcher Downloading](MinecraftLauncherDownloading.png)
+{{< /hint >}}
+
 
 # First-time Configuration
-4. Welcome to *Minecraft*! With the first launch of this version, you will have the option to select accessibility settings, like a narrator, subtitles, and in-game chat visibility settings. You can change these settings later, so adjust them as you like, return to the first menu, and hit Continue.
+1. Modify accessibility settings as desired, and hit Continue.
+
+{{< hint type=tip icon=gdoc_check title=Hint >}}
+With the first launch of this version, you will have the option to select accessibility settings, like a narrator, subtitles, and in-game chat visibility settings. You can change these settings later!
+{{< /hint >}}
 
 # The Main Menu
-The main menu says hello! Here you can select how you want to play, or adjust game settings. 
+![Minecraft Main Menu](MinecraftMainMenu.png)
 
-5. We will just use a Singleplayer world, so select **Singleplayer**. 
+Here you can select how you want to play, or adjust game settings. 
+
+1. Select **Singleplayer**. 
 
 
 # World Creation
-6. If you haven’t created any worlds before, you will be put right into the world creator. If you have some existing worlds, just hit **New World**.
+1. If you haven’t created any worlds before, you will be put right into the world creator. If you have some existing worlds, just hit **New World**.
 
-7. For the purposes of this guide, we will not be doing anything fancy. Just type in a **World Name**, make sure **Game Mode: Survival** is selected, and click **Create New World**. 
+2. Type in a **World Name**, make sure **Game Mode: Survival** is selected, and click **Create New World**. 
+
+![Minecraft World Creation Menu](MinecraftCreateWorld.png)
 
 After *Minecraft* generates your starting area, known to the pros as “spawn,” you’re in! 
+
+![Minecraft Spawn](MinecraftSpawn.png)
